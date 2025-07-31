@@ -40,7 +40,7 @@
 
 ## ⚙️ Prerequisites
 
-* Python 3.8+
+* Python 3.9+
 * Node.js and npm
 * API Keys for:
 
